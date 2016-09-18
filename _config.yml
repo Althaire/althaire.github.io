@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: Pilar Huidobro
+email: huidobropilar@gmail.com
+description: Cute adventures in games and code
+url: # althaire.github.io
 
 
 #
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Vienna
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,35 +33,35 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Pilar Huidobro
+  avatar: avatar.png
+  job: Fullstack Developer
+  bio: Ruby developer at Chill Bill. Organizer at Ruby Habits and Vienna.css [Avid gamer and craftsy person!] Absolutely in love with all tech ✨
+  email: huidobropilar@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: Althaire
+  facebook: pilar.huidobro
   google:
-    plus: #username
+    plus: PilarHuidobroPeltier
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: Althaire
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: pilar-huidobro-961abbab
   xing: #username
-  instagram: #username
+  instagram: princesspilar
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: Althaire
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: espeon-766049116
   weibo: #username
   flickr: #username
   500px: #username
-  codepen: #username
+  codepen: Althaire
