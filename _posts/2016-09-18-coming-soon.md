@@ -7,3 +7,7 @@ comments: true
 ---
 
 Moved to Jekyll so everything's getting rebuilt! Sit tight, we'll be back soon!
+
+<!--more-->
+
+Wha

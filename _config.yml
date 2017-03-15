@@ -26,7 +26,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
 #
 ###################################
 # Site Owner configuration
@@ -36,7 +35,7 @@ owner:
   name: Pilar Huidobro
   avatar: avatar.png
   job: Fullstack Developer
-  bio: Ruby developer at Chill Bill. Organizer at Ruby Habits and Vienna.css [Avid gamer and craftsy person!] Absolutely in love with all tech ✨
+  bio: Software engineer at Chill Bill. Organizer at Ruby Habits and Vienna.css [Avid gamer and craftsy person!] Absolutely in love with all tech ✨
   email: huidobropilar@gmail.com
   disqus-shortname:
   twitter: Althaire
